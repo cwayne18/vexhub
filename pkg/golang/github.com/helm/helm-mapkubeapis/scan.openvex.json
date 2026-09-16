@@ -8343,7 +8343,7 @@
           "@id": "pkg:golang/github.com/helm/helm-mapkubeapis",
           "subcomponents": [
             {
-              "@id": "pkg:golang/golang.org%2Fx%2Fcrypto@v0.56.0"
+              "@id": "pkg:golang/golang.org/x/crypto@v0.56.0"
             }
           ]
         }

@@ -75632,7 +75632,7 @@
           "@id": "pkg:golang/k8s.io/kubernetes",
           "subcomponents": [
             {
-              "@id": "pkg:golang/go.etcd.io%2Fetcd%2Fclient%2Fpkg%2Fv3@v3.7.0"
+              "@id": "pkg:golang/go.etcd.io/etcd/client/pkg/v3@v3.7.0"
             }
           ]
         }
@@ -75651,7 +75651,7 @@
           "@id": "pkg:golang/k8s.io/kubernetes",
           "subcomponents": [
             {
-              "@id": "pkg:golang/golang.org%2Fx%2Fcrypto@v0.55.0"
+              "@id": "pkg:golang/golang.org/x/crypto@v0.55.0"
             }
           ]
         }

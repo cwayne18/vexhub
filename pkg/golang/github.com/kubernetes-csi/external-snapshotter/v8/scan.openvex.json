@@ -9482,7 +9482,7 @@
           "@id": "pkg:golang/github.com/kubernetes-csi/external-snapshotter/v8",
           "subcomponents": [
             {
-              "@id": "pkg:golang/golang.org%2Fx%2Fcrypto@v0.55.0"
+              "@id": "pkg:golang/golang.org/x/crypto@v0.55.0"
             }
           ]
         }
@@ -9501,7 +9501,7 @@
           "@id": "pkg:golang/github.com/kubernetes-csi/external-snapshotter/v8",
           "subcomponents": [
             {
-              "@id": "pkg:golang/github.com%2Fgoogle%2Fcel-go@v0.29.0"
+              "@id": "pkg:golang/github.com/google/cel-go@v0.29.0"
             }
           ]
         }

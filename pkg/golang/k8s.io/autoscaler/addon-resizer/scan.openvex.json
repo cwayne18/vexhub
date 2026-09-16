@@ -3259,7 +3259,7 @@
           "@id": "pkg:golang/k8s.io/autoscaler/addon-resizer",
           "subcomponents": [
             {
-              "@id": "pkg:golang/github.com%2Fklauspost%2Fcompress@v1.17.9"
+              "@id": "pkg:golang/github.com/klauspost/compress@v1.17.9"
             }
           ]
         }

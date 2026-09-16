@@ -37861,7 +37861,7 @@
           "@id": "pkg:golang/github.com/projectcalico/calico",
           "subcomponents": [
             {
-              "@id": "pkg:golang/github.com%2Fklauspost%2Fcompress@v1.18.0"
+              "@id": "pkg:golang/github.com/klauspost/compress@v1.18.0"
             }
           ]
         }
@@ -37880,7 +37880,7 @@
           "@id": "pkg:golang/github.com/projectcalico/calico",
           "subcomponents": [
             {
-              "@id": "pkg:golang/golang.org%2Fx%2Fcrypto@v0.56.0"
+              "@id": "pkg:golang/golang.org/x/crypto@v0.56.0"
             }
           ]
         }
