@@ -24245,7 +24245,29 @@
       "justification": "vulnerable_code_not_present",
       "impact_statement": "Ruled out by vexscan (pclntab): SUSE Security Team rates this HIGH, used instead of UNKNOWN (preferred vendor score)",
       "timestamp": "2026-09-16T12:41:53Z"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2025-54410",
+        "aliases": [
+          "GHSA-4vq8-7jfc-9cvp"
+        ]
+      },
+      "products": [
+        {
+          "@id": "pkg:golang/github.com/containerd/containerd/v2",
+          "subcomponents": [
+            {
+              "@id": "pkg:golang/github.com%2Fdocker%2Fdocker@v27.3.1+incompatible"
+            }
+          ]
+        }
+      ],
+      "status": "not_affected",
+      "justification": "vulnerable_code_not_present",
+      "impact_statement": "Ruled out by vexscan (pclntab-module): SUSE Security Team rates this LOW (preferred vendor score)",
+      "timestamp": "2026-09-16T12:58:10Z"
     }
   ],
-  "timestamp": "2026-09-16T12:41:53Z"
+  "timestamp": "2026-09-16T12:58:10Z"
 }

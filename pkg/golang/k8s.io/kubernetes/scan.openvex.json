@@ -75619,7 +75619,48 @@
       "justification": "vulnerable_code_not_present",
       "impact_statement": "Govulncheck determined that the vulnerable code isn't called",
       "timestamp": "2026-09-03T02:17:03Z"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2026-73500",
+        "aliases": [
+          "GO-2026-6107"
+        ]
+      },
+      "products": [
+        {
+          "@id": "pkg:golang/k8s.io/kubernetes",
+          "subcomponents": [
+            {
+              "@id": "pkg:golang/go.etcd.io%2Fetcd%2Fclient%2Fpkg%2Fv3@v3.7.0"
+            }
+          ]
+        }
+      ],
+      "status": "not_affected",
+      "justification": "vulnerable_code_not_present",
+      "impact_statement": "Ruled out by vexscan (pclntab)",
+      "timestamp": "2026-09-16T12:58:10Z"
+    },
+    {
+      "vulnerability": {
+        "name": "GO-2026-5932"
+      },
+      "products": [
+        {
+          "@id": "pkg:golang/k8s.io/kubernetes",
+          "subcomponents": [
+            {
+              "@id": "pkg:golang/golang.org%2Fx%2Fcrypto@v0.55.0"
+            }
+          ]
+        }
+      ],
+      "status": "not_affected",
+      "justification": "vulnerable_code_not_present",
+      "impact_statement": "Ruled out by vexscan (pclntab)",
+      "timestamp": "2026-09-16T12:58:10Z"
     }
   ],
-  "timestamp": "2026-09-16T11:07:07Z"
+  "timestamp": "2026-09-16T12:58:10Z"
 }
