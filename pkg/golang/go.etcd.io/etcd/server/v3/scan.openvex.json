@@ -28102,7 +28102,7 @@
           "@id": "pkg:golang/go.etcd.io/etcd/server/v3",
           "subcomponents": [
             {
-              "@id": "pkg:golang/golang.org%2Fx%2Fcrypto@v0.56.0"
+              "@id": "pkg:golang/golang.org/x/crypto@v0.56.0"
             }
           ]
         }

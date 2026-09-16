@@ -24214,7 +24214,7 @@
           "@id": "pkg:golang/github.com/containerd/containerd/v2",
           "subcomponents": [
             {
-              "@id": "pkg:golang/golang.org%2Fx%2Fcrypto@v0.55.0"
+              "@id": "pkg:golang/golang.org/x/crypto@v0.55.0"
             }
           ]
         }
@@ -24236,7 +24236,7 @@
           "@id": "pkg:golang/github.com/containerd/containerd/v2",
           "subcomponents": [
             {
-              "@id": "pkg:golang/golang.org%2Fx%2Fcrypto@v0.55.0"
+              "@id": "pkg:golang/golang.org/x/crypto@v0.55.0"
             }
           ]
         }
@@ -24258,7 +24258,7 @@
           "@id": "pkg:golang/github.com/containerd/containerd/v2",
           "subcomponents": [
             {
-              "@id": "pkg:golang/github.com%2Fdocker%2Fdocker@v27.3.1+incompatible"
+              "@id": "pkg:golang/github.com/docker/docker@v27.3.1+incompatible"
             }
           ]
         }
